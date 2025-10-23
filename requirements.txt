@@ -1,0 +1,13 @@
+This file is intentionally simplified for the mock environment.
+
+In a LIVE environment, you would need:
+
+requests (For Netskope/Jira API calls)
+
+flask (For creating the webhook listener)
+
+apscheduler (For scheduling the timed revocation)
+
+Only system dependencies are kept here:
+
+requests

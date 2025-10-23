@@ -1,0 +1,22 @@
+{
+  "issue": {
+    "key": "NSB-744",
+    "fields": {
+      "summary": "Temporary Netskope Bypass Request for Alice",
+      "customfield_10010": {
+        "emailAddress": "alice.smith@mockcorp.com",
+        "displayName": "Alice Smith"
+      },
+      "customfield_10011": 4.0
+    },
+    "changelog": {
+      "items": [
+        {
+          "field": "status",
+          "fromString": "Waiting for approval",
+          "toString": "Approved"
+        }
+      ]
+    }
+  }
+}
