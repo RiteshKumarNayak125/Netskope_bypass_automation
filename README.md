@@ -1,0 +1,2 @@
+# NetskopeAutomation-Enable-Disable-
+admin
